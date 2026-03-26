@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://tenor.com/en-GB/view/pikachu-pokemon-hey-hello-salut-gif-2974660986554945936" height="30px" width="30px"> I'm Namit Chugh</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Namit1208/gifupload/main/pikachu-pokemon.gif" height="30px" width="30px"> I'm Namit Chugh</h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
