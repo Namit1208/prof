@@ -5,13 +5,13 @@
 ## 📌 About Me
 - I’m a Computer Science student learning software development and improving my skills gradually.
 - I began actively working on GitHub from 2025 and have been improving consistently since then.
-- 🔹 Currently working on:
+- **Currently working on:**
 - C++ and problem solving
 - Backend development
 - Git, GitHub, and real-world development
-- 🔹 What I believe:
+- **What I believe:**
 - I believe in learning through projects, learning from errors, and improving consistently.
-- 🔹 What I want to achieve:
+- **What I want to achieve:**
 - Become a skilled developer
 - Contribute to real-world projects
 - Develop meaningful projects
